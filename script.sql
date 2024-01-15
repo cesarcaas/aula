@@ -1,4 +1,3 @@
---
 -- Name: tb_category; Type: TABLE; Schema: public; Owner: -
 --
 
